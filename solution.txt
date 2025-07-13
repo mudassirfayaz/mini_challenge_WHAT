@@ -1,0 +1,68 @@
+Hackathon Core Summary & Planning Document
+1. Short Summary with Feeling & Vision
+This document captures the core insights and vision discussed during the team’s July 12th meeting for the LeadWithAI Hackathon 2025.
+The meeting centered around emotional connection, real-world problems of disconnection within families, and how AI can play a gentle, bridging role.
+What started as a technical ideation session evolved into a human-centered discussion. We’re creating something to reconnect families—especially between aging parents and their adult children—who often live in emotional or practical disconnection due to time, health, or complexity.
+2. Vision, Target Group, Problem & Solution
+Vision
+We believe disconnection is a growing issue. With the right AI tools, we can foster reconnection—bringing people closer even when life pulls them apart.
+Target Group
+Primary: Elderly people who feel isolated, forget things, or struggle with daily structure.
+Secondary: Their children or younger relatives who want to stay in touch but face barriers of time, logistics or emotional distance.
+Problem
+- Loneliness
+- Lack of reminders and planning assistance
+- Disconnection between generations
+- Difficulty using modern tech (especially for elders)
+- Reduced insight into emotional or medical changes
+Solution
+A two-agent AI system:
+- One agent designed for the elderly user (friendly, voice-activated, memory-assisting)
+- One agent for the younger relative (planner, notifier, emotional tracker)
+These agents work together to suggest optimal contact moments, remember past conversations, highlight health or emotional signals, and enable storytelling or quizzes that bond generations.
+3. What, How, and What to Show
+What are we building?
+- A multi-agent AI setup
+- Voice interaction system
+- Planning + memory lane module
+- Story mode and quiz triggers based on shared memory/context
+- Support for 2-3 person calls
+How are we building it?
+- Using the GenAI Agents Protocol (required)
+- Agents running via simple front-ends or voice interfaces
+- Sync with Google Calendar or similar tools for planner
+- JSON-style memory or notebook log between agents
+- Notion/Google Drive for collaboration
+What do we want to show?
+- That the agents talk to each other
+- That the system learns and adapts
+- That it works for real-world scenarios
+- That it’s visually, emotionally and structurally simple & relatable
+Accessibility Goals
+- Voice-first UI for elderly
+- Optional visual UIs for younger party
+- No mandatory install for elder side
+- Easy onboarding & demo-ready workflows
+4. Kickoff Checklist
+- Finalize name, visuals, and narrative
+- Create unified agent prompt logic
+- Assign 24h task leads (Day 1: Louis, Day 2: Melissa)
+- Connect documentation to the GenAI Challenge criteria
+- Use Google Drive to centralize materials
+- Ensure demo video narrative is covered (2–4 min goal)
+- Create fallback update system (Open Call doc)
+
+
+
+
+
+
+
+
+
+1. Memory Agent continuously monitors birthday JSON file
+2. When a birthday approaches, Memory Agent alerts Master Agent
+3. Master Agent instructs Elderly Agent to remind the user
+4. Elderly Agent initiates conversation: "Hey, did you know it's [Name]'s birthday tomorrow?"
+5. Elderly Agent can suggest calling or sending a message
+6. Younger Relative Agent gets notified of the interaction

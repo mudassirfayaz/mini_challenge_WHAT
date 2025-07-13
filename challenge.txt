@@ -1,0 +1,113 @@
+Lead with AI Agents Hackathon 2025: Challenge Statement
+Proudly supported by: GenAI.Works, Cloudera and Notion
+and our community partners: RMIT University and AI4Diversity
+Submission Deliverables
+. Required: Short Video
+2
+4 Minutes)
+
+Demonstrate how two or more of the AI agents complete a task.
+Explain the workflows and highlight unique features used in the workflow.
+. Required: GitHub Repository
+Include all source code with documentation for setup, usage, and dependencies.
+In case you were using agents deployed in Google Colab, provide the Google Colab links.
+. Optional: Slide Deck (max 12 slides)
+Include anything such as your problem statement, thinking process, agent workflow diagram, and
+technical stack.
+Add visuals like screenshots, and possible future enhancements and use cases.
+. Optional: Extra documentation (max 8 pages)
+Include anything such as your problem statement, thinking process, agent workflow diagram, and
+technical stack.
+Add visuals like screenshots, and possible future enhancements and use cases.
+Ensure your solution is submitted by 11pm AEST on Monday, July 14 through this submission form.
+There is $10,000 worth of prizes to distribute across 6 teams.
+
+1st place: $3,500, 2nd place: $2,500, 3rd place: $1,500, 4th
+
+place: $1,000, 5th place: $750, 6th place: $250
+
+Make sure to check for any updates or announcements in the hackathon
+
+community space through this channel.
+
+Challenge Statement
+Build an AI agent workflow that consists of two or more agents to solve a complex task that involves unique capabilities of
+the agents. The task should be presented to the Master Agent in a plain text format (e.g. “Summarize the video on Youtube
+and translate the summary to Spanish.” )
+In your solution, please provide the code repository and a brief outline that explains the problem that you are solving, and
+its application.
+
+Background/ Context
+The world is moving towards an era of AI agents operating autonomously. However, while agents are becoming more
+
+capable, their ability to communicate efficiently across different AI platforms remains an unsolved challenge. GenAI-
+protocol was created break down these walled gardens, and solve this challenge.
+
+Our protocol enables AI agents to communicate in a decentralized, secure, and orchestrated way, simplifying collaboration
+for both solo entrepreneurs and enterprise-wide AI integration and transformation.
+
+Our Python version of the protocol is lightweight and optimized for high-performance distributed systems. We provide the
+missing layer for agent-to-agent communication.
+
+Where to start?
+. Getting started
+a. README Onboarding
+b. Github root folder
+. Video assisted onboarding:
+a. Setting up the protocol on your machine
+b. Building your first AI agent (with examples)
+c. How to run agents locally from Google Colab
+d. Integrating multiple agents into your setup
+i. How to connect A2A servers into your setup
+ii. How to integrate MCP servers into your setup
+. Brainstorming and Ideation
+a. How to AgentMaker to create example AI agents for you
+b. How to evaluate the efficacy of your agents
+. See further resources in the MightyNetworks community environment such as:
+a. Your hackathon to-do list
+b. Beginner guide for participants
+c. Beginner guide for mentors
+d. Rules and Guidelines
+e. Check out previous winners for reference
+f. Suggested products for making your presentation
+
+Bonus Points
+GenAI AgentOS Protocol usage
+5 points):
+
+Utilise the GenAI AgentOS Protocol for your solution to gain 5 (five) additional bonus points for your team.
+Get setup here: GitHub - genai-works-org/getting-started-genai-agentos
+Note: Please mention using GenAI AgentOS Protocol this in the written submission project
+description.
+Cloudera usage
+2 points):
+
+Simply sign up for a free trial at Cloudera to gain 1 (one) bonus point. If you are able to connect the
+Cloudera data streaming functionality into the GenAI Protocol you will also gain 1 (one) additional bonus
+point, for a total of 2 bonus points.
+Start a free 5-day trial through this link: Cloudera on cloud 5-day Free Trial
+
+Check out how to integrate MCP cloudera servers with the GenAI protocol here: GitHub - gen
+ai-works-org/cloudera-mcp: MCP server to integrate with Cloudera data warehouse
+Note: Please mention using Cloudera this in the written submission project description.
+Notion usage
+1 point):
+
+Use Notion to submit any component of your team’s documentation to gain 1 (one) bonus points. This can
+be the supplementary 8 page document or your slide deck.
+Create a free account through this link: The AI workspace that works for you. | Notion
+If you are a member of a startup you can also get a 6 month exclusive free trial here: Your con
+nected workspace for wiki, docs & projects | Notion
+Note: Please mention using Notion in the written submission project description.
+
+Judging criteria
+All submissions will be scored out of a total of 40 points. Please see the bonus points section above to see how you can
+boost your team’s performance.
+Consistency with the challenge statements: Score out of 15
+How relevant is the solution to the problem statement?
+Quality and Design: Score out of 10
+Is the quality of the algorithm, code or design good?
+Originality and Creativity: Score out of 10
+How different is this solution from others in the market you have seen?
+Commercialisation: Score out of 5
+What do you think is the commercial opportunity for this solution?
